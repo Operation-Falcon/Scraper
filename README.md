@@ -9,3 +9,14 @@ Project 5
 Scraper:
 
 Scraper scrape endpoints from specific webpage. You can pass a webpage or a file containing multiple webpages links to scrape from . 
+
+Installation:
+
+                   git clone https://github.com/operationfalcon/Scraper.git
+                   
+                   cd Scraper
+                   
+                   pip3 install -r requirements.txt
+                   
+Usage :
+
