@@ -20,3 +20,6 @@ Installation:
                    
 Usage :
 
+![scraperusage](https://user-images.githubusercontent.com/83413793/116856365-adccba00-ac18-11eb-818f-17e3a64c2b5b.png)
+
+
