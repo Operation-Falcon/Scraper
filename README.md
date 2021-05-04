@@ -26,8 +26,6 @@ Usage :
                    
                    python3 scraper.py -u <url> -o <output filename>
                    
-                   python3 scraper.py -f <file containing urls> -o <output filename>
-
 Troubleshooting :
 
             If you are getting http connection error then do for loop to bypass the http connection error from request library
