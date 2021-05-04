@@ -18,7 +18,3 @@ args=parser.parse_args()
 
 if len(sys.argv) == 5 and sys.argv[2]==args.url and sys.argv[4]==args.output:
     scrape_links_from_single_url(args.url, args.output)
-elif len(sys.argv) ==5 and sys.argv[2]==args.file and sys.argv[4]==args.output:
-    scrape_links_from_multiple_urls(args.file, args.output)
-else:
-    pass
