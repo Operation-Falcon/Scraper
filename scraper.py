@@ -1,6 +1,6 @@
 import argparse
 from banner.banner import banner_design
-from function import scrape_links_from_single_url, scrape_links_from_multiple_urls
+from function import scrape_links_from_single_url
 import sys
 banner=banner_design()
 
